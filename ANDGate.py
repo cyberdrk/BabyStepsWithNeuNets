@@ -1,6 +1,6 @@
 #This code has been authored by Ankur Kumar (@dopetard on Medium) 
 #A big shoutout and thanks to the man for writing such an amazing tutorial (Link in Description)
-#I have merely followed the steps and made a few changes of mine
+#I have merely followed the steps of the tutorial 
 
 import tensorflow as tf #importing the tensorflow library
 T, F = 1.0, -1.0 #True has the +1.0 value and has F -1.0, it's important to
